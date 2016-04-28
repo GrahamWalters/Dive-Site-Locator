@@ -1,0 +1,1115 @@
+[
+  {
+    "long": -5.046554,
+    "name": "Stone Point",
+    "depth": 30,
+    "lat": 56.235379,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.137396,
+    "name": "Carnoch Bay",
+    "depth": 30,
+    "lat": 56.680916,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Unknown"
+  },
+  {
+    "long": -3.072386,
+    "name": "Trinkie",
+    "depth": 25,
+    "lat": 58.426574,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -4.78786,
+    "name": "Craggen",
+    "depth": 32,
+    "lat": 56.16454,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.28864,
+    "name": "Cregan Bridge",
+    "depth": 8,
+    "lat": 56.546934,
+    "types": [
+      "Drift"
+    ],
+    "experience": "Ocean"
+  },
+  {
+    "long": -5.39195,
+    "name": "The falls of Iora",
+    "depth": 30,
+    "lat": 56.45628,
+    "types": [
+      "Drift"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -3.385178,
+    "name": "Preston Hill Quarry",
+    "depth": 10,
+    "lat": 56.027415,
+    "types": [
+      "Quarry"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -1.794344,
+    "name": "Boddam Quary",
+    "depth": 25,
+    "lat": 57.469091,
+    "types": [
+      "Quarry"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.64439,
+    "name": "Easdale Quarry",
+    "depth": 60,
+    "lat": 56.29425,
+    "types": [
+      "Quarry"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.223611,
+    "name": "Bonawe Quarry",
+    "depth": 15,
+    "lat": 56.451389,
+    "types": [
+      "Quarry"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -4.830776,
+    "name": "Finnart",
+    "depth": 18,
+    "lat": 56.117729,
+    "types": [
+      "Reef",
+      "Wreck"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -4.817001,
+    "name": "Orchy Pools",
+    "depth": 7,
+    "lat": 56.481003,
+    "types": [
+      "River"
+    ],
+    "experience": "Ocean"
+  },
+  {
+    "long": -3.546275,
+    "name": "Linn of Dee",
+    "depth": 9,
+    "lat": 56.988119,
+    "types": [
+      "River"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -4.85287,
+    "name": "River Orchy",
+    "depth": 9,
+    "lat": 56.44774,
+    "types": [
+      "River"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.810625,
+    "name": "Toscaig",
+    "depth": 30,
+    "lat": 57.372744,
+    "types": [
+      "Scenic"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -3.054875,
+    "name": "Staxigoe",
+    "depth": 10,
+    "lat": 58.456636,
+    "types": [
+      "Scenic"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.568003,
+    "name": "Conservation Bay",
+    "depth": "Unknown",
+    "lat": 57.358355,
+    "types": [
+      "Scenic"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.33854,
+    "name": "Bay of Clachtoll",
+    "depth": 10,
+    "lat": 58.187314,
+    "types": [
+      "Scenic",
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.307555,
+    "name": "Achmelvich Bay",
+    "depth": 20,
+    "lat": 58.170205,
+    "types": [
+      "Scenic",
+      "Shore"
+    ],
+    "experience": "Ocean"
+  },
+  {
+    "long": -5.22715,
+    "name": "Furnace Tea Rooms",
+    "depth": 18,
+    "lat": 56.13239,
+    "types": [
+      "Scenic",
+      "Shore"
+    ],
+    "experience": "Unknown"
+  },
+  {
+    "long": -4.90524,
+    "name": "Carrick Castle",
+    "depth": 30,
+    "lat": 56.10765,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -6.615422,
+    "name": "Carnach Reef",
+    "depth": "Unknown",
+    "lat": 57.537954,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -4.77108,
+    "name": "Twin Piers",
+    "depth": 25,
+    "lat": 56.19395,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.101551,
+    "name": "Midletters",
+    "depth": "Unknown",
+    "lat": 56.15639,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -2.81499,
+    "name": "Elie Harbour",
+    "depth": 8,
+    "lat": 56.18219,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.331465,
+    "name": "North Strome",
+    "depth": 18,
+    "lat": 57.212962,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -4.82812,
+    "name": "29 Steps",
+    "depth": 30,
+    "lat": 56.11851,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.08029,
+    "name": "The Creggans",
+    "depth": 35,
+    "lat": 56.17498,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -2.06483,
+    "name": "School Reef",
+    "depth": 13,
+    "lat": 57.69399,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -2.08371,
+    "name": "Green Ends Gully",
+    "depth": 11,
+    "lat": 55.87678,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.057053,
+    "name": "Brackley Point",
+    "depth": 50,
+    "lat": 55.920705,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -4.88111,
+    "name": "Inverkip",
+    "depth": 18,
+    "lat": 55.90528,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.705646,
+    "name": "Alisary",
+    "depth": 20,
+    "lat": 56.855654,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -2.28799,
+    "name": "Millshore",
+    "depth": 8,
+    "lat": 5.676609,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.686425,
+    "name": "Lower Diabaig Pier",
+    "depth": "Unknown",
+    "lat": 57.574459,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.019865,
+    "name": "Stt Catherines",
+    "depth": 30,
+    "lat": 56.227254,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.642724,
+    "name": "Laudale Slip",
+    "depth": 35,
+    "lat": 56.677303,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.895404,
+    "name": "Wishing Stone",
+    "depth": 20,
+    "lat": 56.549782,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.68405,
+    "name": "Lower Diabaig Wall",
+    "depth": 40,
+    "lat": 57.57375,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.67354,
+    "name": "Charleston Pier",
+    "depth": 10,
+    "lat": 57.70454,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.205983,
+    "name": "Picninc Site",
+    "depth": 25,
+    "lat": 56.741854,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.37461,
+    "name": "Badentarbet",
+    "depth": 8,
+    "lat": 58.029577,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -1.80803,
+    "name": "Boddam Lighthouse",
+    "depth": 23,
+    "lat": 57.4676,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -6.59147,
+    "name": "Dunvegan Pier",
+    "depth": 11,
+    "lat": 57.441488,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.119157,
+    "name": "Fanagmore",
+    "depth": 18,
+    "lat": 58.398694,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.19943,
+    "name": "Craig Lodge",
+    "depth": 6,
+    "lat": 55.953801,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.036389,
+    "name": "Kinlochbervie",
+    "depth": 20,
+    "lat": 58.454295,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -4.661711,
+    "name": "Ard Neackie",
+    "depth": 40,
+    "lat": 58.495684,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -2.585177,
+    "name": "Fifeness",
+    "depth": 15,
+    "lat": 56.280235,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.334356,
+    "name": "Telephone Exchange",
+    "depth": 20,
+    "lat": 56.617007,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.28048,
+    "name": "Queenie Reef",
+    "depth": 20,
+    "lat": 56.54582,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -3.367449,
+    "name": "Dwarwick Pier",
+    "depth": "Unknown",
+    "lat": 58.621894,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.29863,
+    "name": "Cregan Inn",
+    "depth": 14,
+    "lat": 56.54865,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.80615,
+    "name": "Whale Rock",
+    "depth": 10,
+    "lat": 56.83853,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -2.5177,
+    "name": "Dunbar Harbour",
+    "depth": 16,
+    "lat": 56.0062,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Ocean"
+  },
+  {
+    "long": -5.59514,
+    "name": "Scotnish Hole",
+    "depth": 16,
+    "lat": 56.03845,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Ocean"
+  },
+  {
+    "long": -6.099059,
+    "name": "Creag Brimishgan",
+    "depth": 35,
+    "lat": 56.450648,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Ocean"
+  },
+  {
+    "long": -5.228779,
+    "name": "Bonawe Ferry Point",
+    "depth": 30,
+    "lat": 56.447143,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Ocean"
+  },
+  {
+    "long": -5.2953,
+    "name": "Culi Bay",
+    "depth": 25,
+    "lat": 56.642,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -4.81627,
+    "name": "Fishermans Carpark",
+    "depth": 30,
+    "lat": 56.13299,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.52398,
+    "name": "Totaig",
+    "depth": 20,
+    "lat": 57.2694,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -6.74295,
+    "name": "Meanish Reef",
+    "depth": "Unknown",
+    "lat": 57.4532,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -1.772752,
+    "name": "Almanethy Creek",
+    "depth": 8,
+    "lat": 57.510118,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.48419,
+    "name": "Dunollie Castle",
+    "depth": 10,
+    "lat": 56.42286,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -2.049669,
+    "name": "Greig Ness",
+    "depth": 15,
+    "lat": 57.128064,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.654204,
+    "name": "Easdale Cliff",
+    "depth": 15,
+    "lat": 56.297086,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.66072,
+    "name": "Castle Sween Reef",
+    "depth": "Unknown",
+    "lat": 55.94746,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -3.053289,
+    "name": "Broadhaven Window",
+    "depth": 25,
+    "lat": 58.448363,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.55458,
+    "name": "Laudale Pier",
+    "depth": 35,
+    "lat": 56.65295,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.79096,
+    "name": "Camas Torsa",
+    "depth": 20,
+    "lat": 56.70411,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.293538,
+    "name": "Triple Reef",
+    "depth": 35,
+    "lat": 56.041348,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -2.0977,
+    "name": "Weasel Loch",
+    "depth": 17,
+    "lat": 55.8778,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -2.12972,
+    "name": "St Abbs",
+    "depth": 18,
+    "lat": 55.90027,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -2.15032,
+    "name": "Peticowick",
+    "depth": 16,
+    "lat": 55.91259,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -4.87111,
+    "name": "Gogoburn",
+    "depth": 30,
+    "lat": 55.78905,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.26567,
+    "name": "Anchor Point",
+    "depth": 15,
+    "lat": 56.06867,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.23044,
+    "name": "Broom Point",
+    "depth": 10,
+    "lat": 56.68274,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -2.21589,
+    "name": "Catterline Island",
+    "depth": "Unknown",
+    "lat": 56.8975,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -4.69614,
+    "name": "Tarbet Isle",
+    "depth": 10,
+    "lat": 56.21171,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.52274,
+    "name": "Duich Point Skerry",
+    "depth": 15,
+    "lat": 57.26875,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -2.199128,
+    "name": "Crawton Reef and the Granero",
+    "depth": "Unknown",
+    "lat": 56.906911,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Unknown"
+  },
+  {
+    "long": -5.750967,
+    "name": "Eilean Gobla#ch",
+    "depth": 10,
+    "lat": 56.891701,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Unknown"
+  },
+  {
+    "long": 92.215472,
+    "name": "Tod Head Lighthouse",
+    "depth": 15,
+    "lat": 56.884852,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Unknown"
+  },
+  {
+    "long": -5.16886,
+    "name": "Manse Point",
+    "depth": "Unknown",
+    "lat": 56.68531,
+    "types": [
+      "Shore"
+    ],
+    "experience": "Unknown"
+  },
+  {
+    "long": -5.03985,
+    "name": "Caolasnacon",
+    "depth": 30,
+    "lat": 56.70529,
+    "types": [
+      "Shore",
+      "Wall"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.06929,
+    "name": "Old Cemetery 2",
+    "depth": 6,
+    "lat": 56.70197,
+    "types": [
+      "Shore",
+      "Wall"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.018204,
+    "name": "Kylesku",
+    "depth": 40,
+    "lat": 58.257595,
+    "types": [
+      "Shore",
+      "Wall"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.07285,
+    "name": "Old cemetary 1",
+    "depth": 4.5,
+    "lat": 56.70293,
+    "types": [
+      "Shore",
+      "Wreck"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -3.277225,
+    "name": "Skarfskerry Haven",
+    "depth": 25,
+    "lat": 58.652223,
+    "types": [
+      "Shore",
+      "Wreck"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -2.076137,
+    "name": "Cove Harbour",
+    "depth": 10,
+    "lat": 57.095696,
+    "types": [
+      "Shore",
+      "Wreck"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.310162,
+    "name": "Charna",
+    "depth": 12,
+    "lat": 56.454974,
+    "types": [
+      "Shore",
+      "Wreck"
+    ],
+    "experience": "Ocean"
+  },
+  {
+    "long": -5.17436,
+    "name": "Furnace Quarry",
+    "depth": 43,
+    "lat": 56.15027,
+    "types": [
+      "Shore",
+      "Slope"
+    ],
+    "experience": "Ocean"
+  },
+  {
+    "long": -4.93437,
+    "name": "Drishaig Reef",
+    "depth": 26,
+    "lat": 56.26685,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -4.7631,
+    "name": "Torpedo Station",
+    "depth": 15,
+    "lat": 56.19605,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -4.776853,
+    "name": "Congor Alley",
+    "depth": 30,
+    "lat": 56.191568,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.060363,
+    "name": "The Bottle Dive",
+    "depth": 53,
+    "lat": 56.208244,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.055272,
+    "name": "Seal Reef",
+    "depth": 10,
+    "lat": 56.210973,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -5.177361,
+    "name": "Dogfish Reef",
+    "depth": 50,
+    "lat": 56.150821,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Ocean"
+  },
+  {
+    "long": -4.79613,
+    "name": "Glen Douglas Road End",
+    "depth": 56,
+    "lat": 56.158042,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -4.80223,
+    "name": "Midway",
+    "depth": 53,
+    "lat": 56.151734,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.133472,
+    "name": "Stallion Rock",
+    "depth": 37,
+    "lat": 56.161121,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -4.77494,
+    "name": "Loch long Caves",
+    "depth": 31,
+    "lat": 56.17988,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -4.68342,
+    "name": "Firkin Point",
+    "depth": 110,
+    "lat": 56.17754,
+    "types": [
+      "Slope"
+    ],
+    "experience": "Master"
+  },
+  {
+    "long": -5.78563,
+    "name": "Lochaline Pier",
+    "depth": 90,
+    "lat": 56.53207,
+    "types": [
+      "Wall"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.509153,
+    "name": "Eilean Donan Wall",
+    "depth": 115,
+    "lat": 57.270121,
+    "types": [
+      "Wall"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -5.21241,
+    "name": "Kentallen Wall",
+    "depth": 32,
+    "lat": 56.67821,
+    "types": [
+      "Wall",
+      "Scenic"
+    ],
+    "experience": "Sport"
+  },
+  {
+    "long": -4.88004,
+    "name": "Kintyre",
+    "depth": 31,
+    "lat": 55.87871,
+    "types": [
+      "Wreck"
+    ],
+    "experience": "Master"
+  },
+  {
+    "long": -2.59681,
+    "name": "SS Chingford",
+    "depth": 7,
+    "lat": 56.26588,
+    "types": [
+      "Wreck"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -4.90613,
+    "name": "Portencross",
+    "depth": 8,
+    "lat": 55.69435,
+    "types": [
+      "Wreck"
+    ],
+    "experience": "Novice"
+  },
+  {
+    "long": -4.8368,
+    "name": "Five Wrecks",
+    "depth": 15,
+    "lat": 56.0735,
+    "types": [
+      "Wreck"
+    ],
+    "experience": "Sport"
+  }
+]

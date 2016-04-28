@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-right: 30px;
+}
+
+
+#map {
+  height: 100%;
+}
+
+
+.sidebar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+
+.wind {
+  position: absolute;
+  bottom: 50px;
+  left: 30px;
+  height: 110px;
+  width: 110px;
+}
+.wind > .compass {
+  position: absolute;
+  width: 100%;
+}
+.wind > .compass-arrow {
+  position: absolute;
+  height: 64px;
+  width: 14px;
+  bottom: 23px;
+  left: 49px;
+  z-index:1001;
+  -webkit-transform-origin: center center;
+  display: none;
+}
+
+
+#wave-gauge {
+  position: absolute;
+  bottom: 50px;
+  right: 30px;
+  height: 90px;
+  width: 90px;
+}
+

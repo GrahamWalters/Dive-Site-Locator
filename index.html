@@ -1,0 +1,86 @@
+<html>
+<head>
+  <title>Dive Site Locator</title>
+
+  <link rel="stylesheet" href="https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css" />
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <div>
+    <div class="row">
+
+
+      <div class="col-md-10">
+        <div id="map"></div>
+
+        <div class="wind">
+          <img src="assets/img/compass.png" class="compass" data-toggle="tooltip" data-placement="top" title="Wind Direction">
+          <img src="assets/img/dial.png" class="compass-arrow">
+        </div>
+
+        <svg id="wave-gauge" title="Swell Wave Height"></svg>
+      </div>
+
+
+      <div class="col-md-2 sidebar">
+
+        <button class="btn btn-primary btn-md compareDiveSites">Compare Dive Sites</button>
+        <button class="btn btn-primary btn-md findNearestDiveSite">Find Nearest Dive Site</button>
+
+
+        <h3 class="h4">Filter Dive Sites</h3>
+
+
+        <h4 class="h5">Search</h4>
+        <input id="search" class="form-control" placeholder="Dive Site Name" />
+
+
+        <h4 class="h5">Dive Type</h4>
+        <div class="row">
+          <input class="col-md-4" type="image" id="wallButton" src="assets/pins/wall.png" title="Wall Dives">
+          <input class="col-md-4" type="image" id="scenicButton" src="assets/pins/scenic.png" title="Scenic Dives">
+          <input class="col-md-4" type="image" id="reefButton" src="assets/pins/reef.png" title="Reef Dives">
+        </div>
+        <div class="row">
+          <input class="col-md-4" type="image" id="shoreButton" src="assets/pins/shore.png"  title="Shore Dives">
+          <input class="col-md-4" type="image" id="wreckButton" src="assets/pins/wreck.png" title="Wreck Dives">
+          <input class="col-md-4" type="image" id="riverButton" src="assets/pins/river.png" title="River Dives">
+        </div>
+        <div class="row">
+          <input class="col-md-4" type="image" id="slopeButton" src="assets/pins/slope.png" title="Slope Dives" >
+          <input class="col-md-4" type="image" id="driftButton" src="assets/pins/drift.png" title="Drift Dives">
+          <input class="col-md-4" type="image" id="quarryButton" src="assets/pins/quarry.png" title="Quarry Dives">
+        </div>
+
+        <h4 class="h5">Recommended Experience</h4>
+        <div class="row">
+          <div class="col-md-8">
+            <img id="dive-experience" src="assets/img/all.png" width="100%">
+          </div>
+          <div class="col-md-4 experience-controls">
+            <button type="button" id="experience-plus" class="btn btn-default btn-sm btn-block">
+              <span class="glyphicon glyphicon-arrow-up"></span>
+            </button>
+            <button type="button" id="experience-minus" class="btn btn-default btn-sm btn-block">
+              <span class="glyphicon glyphicon-arrow-down"></span>
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
+
+  <script src="https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js"></script>
+
+  <script src="assets/js/liquidFillGauge.js"></script>
+  <script src="assets/js/map.js"></script>
+</body>
+</html>
