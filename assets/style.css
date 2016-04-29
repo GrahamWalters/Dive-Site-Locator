@@ -47,3 +47,49 @@ body {
   width: 90px;
 }
 
+.h4 {
+  margin-top: 40px;
+}
+
+.h5 {
+  margin-top: 20px;
+}
+
+
+.ui-autocomplete {
+  position: absolute;
+  padding: 0;
+
+  z-index: 1000;
+  float: left;
+  display: none;
+
+  margin: 2px 0 0 0;
+  list-style: none;
+  background-color: #ffffff;
+  border-color: #ccc;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-style: solid;
+  border-width: 1px;
+
+  border-radius: 5px;
+  overflow: hidden;
+
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.ui-menu-item {
+  padding: 3px 5px;
+}
+
+.ui-menu-item:hover {
+  color: #fff;
+  text-decoration: none;
+  background-color: #08c;
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  background-image: none;
+}

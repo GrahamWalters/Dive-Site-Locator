@@ -25,8 +25,8 @@
 
       <div class="col-md-2 sidebar">
 
-        <button class="btn btn-primary btn-md compareDiveSites">Compare Dive Sites</button>
-        <button class="btn btn-primary btn-md findNearestDiveSite">Find Nearest Dive Site</button>
+        <button class="btn btn-primary btn-md btn-block compareDiveSites">Compare Dive Sites</button>
+        <button class="btn btn-primary btn-md btn-block findNearestDiveSite">Find Nearest Dive Site</button>
 
 
         <h3 class="h4">Filter Dive Sites</h3>
@@ -74,9 +74,83 @@
 
 
 
+  <!-- Modal -->
+  <div class="modal fade" id="compareModal" role="dialog">
+    <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Compare Dive Sites</h4>
+        </div>
+
+        <table class="table table-striped" id="table">
+          <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+          <tr>
+            <th>Coordinates</th>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <th>Type</th>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <th>Experience</th>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <th>Depth</th>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <th>Temperature(°C)</th>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <th>Wind Speed</th>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <th>Sea Temperature(°C)</th>
+            <td></td>
+            <td></td>
+          </tr>
+        </table>
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  <script src="//raw.github.com/mapbox/leaflet-knn/master/leaflet-knn.min.js"></script>
 
   <script src="https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js"></script>
 
